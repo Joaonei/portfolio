@@ -23,17 +23,6 @@
       </div>
 
       <h2 class="font-sans hover:font-serif">Designs Responsivos</h2>
-      <h4 class="font-sans hover:font-serif"> Técnologias que trabalho</h4>
-      <div class="mx-auto flex items-center justify-center
-      space-x-5 space-y-5
-      ">
-      <img class="object-contain h-10 md:h-32 lg:h-20 w-30" src="../assets/js.png" alt="js" title="JavaScript"/>
-        <img class="object-contain h-10 md:h-32 lg:h-20 w-30" src="../assets/logo.png" alt="VueJs" title="Vue Js"/>
-        <img class="object-contain h-10 md:h-32 lg:h-20 w-30" src="../assets/Vuetify.png" alt="Vuetify" title="Vuetify"/>
-        <img class="object-contain h-10 md:h-32 lg:h-20 w-30" src="../assets/Axios.png" alt="Axios" title="Axios"/>
-        <img class="object-contain h-10 md:h-32 lg:h-20 w-30" src="../assets/Tailwind-CSS1.png" alt="Tailwind" title="Tailwind"/>
-        
-  </div>
     </div>
 </template>
 
