@@ -23,9 +23,18 @@
       </div>
 
       <h2 class="font-sans hover:font-serif">Designs Responsivos</h2>
+      
+      <v-slot>
+      <Download/>
+    </v-slot>
+
     </div>
 </template>
 
+<script setup>
+import Download from "@/components/DownloadBtn.vue"
+
+</script>
 
 <style>
 
