@@ -1,6 +1,6 @@
 <template>
 <div class="text-center">
-    <h2> Projetos </h2>
+    <h2> Projetos Desenvolvidos </h2>
     <div class="container
     grid grid-cols-1 md:grid-cols-2 
     mx-auto
