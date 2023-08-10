@@ -15,7 +15,7 @@ min-h-screen
       <li class="text-sm
       list-none inline-block px-2 text-emerald-950">
         <a href="#" class="px-2 font-extrabold	hover:overline"><font-awesome-icon :icon="['fab', 'vuejs']" size="lg"  />
-         Projetos Desenvolvidos</a></li>
+         Projetos_Desenvolvidos</a></li>
         </router-link>
     </ul>
   </nav>
