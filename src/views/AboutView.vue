@@ -6,7 +6,10 @@ items-center
 bg-white
  template 
  space-x-2 pb-80">
- <div class="w-90 px-10"> <img class="object-contain h-80 md:h-32 lg:h-80 w-120" src="../assets/myimage.png" alt=""></div>
+ <div class="w-90 px-10"> <img class="
+  drop-shadow-2xl
+  bg-gray-100 opacity-75 hover:opacity-90
+  object-contain h-80 md:h-32 lg:h-80 w-150" src="../assets/img2.png" alt=""></div>
  <div class="flex items-center">
  <div class="w-30">
     <p class="pl-5 text-center 
